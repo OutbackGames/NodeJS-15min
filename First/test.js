@@ -18,7 +18,7 @@ var sampleObj2 = {
 	username: 'HelloKittyLord1337',
 	pwd: 'ThIsIsAsUpEr!SecurePASwoRD?##',
 	sex: 'Male',
-	gender:'Apache Helicopter',
+	gender:'Unknown',
 	website:'GamerLordz.co',
 	flags:'troll'
 };
